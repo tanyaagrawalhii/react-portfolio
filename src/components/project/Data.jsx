@@ -9,6 +9,7 @@ export const Data = [
         title: "3D-Animation",
         description:
             "A cybersecurity websity using 3D animation making website dynamic",
+        demoUrl:'https://tanyaagrawalhii.github.io/3D_Animation/',
     },
     {
         id: 2,
@@ -16,6 +17,7 @@ export const Data = [
         title: "LabourEase",
         description:
             "LabourEase bridges the gap between small-scale laborers and shopkeepers, connecting them seamlessly through job opportunities and reliable worker access. ",
+        demoUrl: 'https://labour-ease.vercel.app',
     },
     {
         id: 3,
@@ -23,5 +25,6 @@ export const Data = [
         title: "PlayStation",
         description:
             "A gaming website built using javascript includes three games i.e tic-tac-toe,iDragon and Puzzle",
+        demoUrl: 'https://tanyaagrawalhii.github.io/PlayStation/'
     },
 ];

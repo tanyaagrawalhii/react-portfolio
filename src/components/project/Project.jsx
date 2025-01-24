@@ -59,6 +59,12 @@ const Projects = () => {
             <img src={modalData.image} alt={modalData.title} className="modal-image" />
             <h3 className="modal-title">{modalData.title}</h3>
             <p className="modal-description">{modalData.description}</p>
+            {/* Demo Button */}
+            {modalData.demoUrl && (
+              <a href={modalData.demoUrl} target="_blank" rel="noopener noreferrer" className="modal-demo-button">
+                View Demo
+              </a>
+            )}
           </div>
         </div>
       )}
