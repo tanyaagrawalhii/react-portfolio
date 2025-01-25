@@ -8,7 +8,7 @@ export const Data = [
         image: Image3,
         title: "3D-Animation",
         description:
-            "A cybersecurity websity using 3D animation making website dynamic",
+            "A cybersFriction user-friendly website using 3D animation,canva image and GSAP making website dynamic",
         demoUrl:'https://tanyaagrawalhii.github.io/3D_Animation/',
     },
     {
@@ -24,7 +24,7 @@ export const Data = [
         image: Image2,
         title: "PlayStation",
         description:
-            "A gaming website built using javascript includes three games i.e tic-tac-toe,iDragon and Puzzle",
+            "A gaming website built using javascript, HMTL and CSSincludes three games i.e tic-tac-toe,iDragon and Puzzle",
         demoUrl: 'https://tanyaagrawalhii.github.io/PlayStation/'
     },
 ];
