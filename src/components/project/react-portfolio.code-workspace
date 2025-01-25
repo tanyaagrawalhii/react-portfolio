@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "react-portfolio",
+			"path": "../../../react-portfolio"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
